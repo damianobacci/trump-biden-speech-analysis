@@ -17,4 +17,4 @@ NLTK analysis of Trump's and Biden's final convention speeches
 * Lemmatization?
 * Bigrams?
 * POS tagging?
-* Sentiment analysis
+* Sentiment analysis?
