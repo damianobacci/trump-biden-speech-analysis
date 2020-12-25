@@ -10,7 +10,11 @@ NLTK analysis of Trump's and Biden's final convention speeches
 * Upper case letters to lower case letters
 * Stopwords removal
 * Frequency of words
-* Words leght?
+
+## To do list
+
+* Words lenght?
 * Lemmatization?
 * Bigrams?
 * POS tagging?
+* Sentiment analysis
