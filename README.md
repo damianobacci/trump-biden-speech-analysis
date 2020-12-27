@@ -13,8 +13,7 @@ NLTK analysis of Trump's and Biden's final convention speeches
 
 ## To do list
 
-* Words lenght?
-* Lemmatization?
-* Bigrams?
-* POS tagging?
-* Sentiment analysis?
+* Lemmatization
+* Vocabulary
+* [POS tagging and frequency distribution](https://www.guru99.com/counting-pos-tags-nltk.html)
+* Collocations (bigrams and trigrams)
