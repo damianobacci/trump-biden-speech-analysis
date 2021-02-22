@@ -6,14 +6,16 @@ NLTK analysis of Trump's and Biden's final convention speeches
 
 ## Analysis steps
 
+* Lemmatization
 * Tokenization
 * Upper case letters to lower case letters
 * Stopwords removal
 * Frequency of words
-
-## To do list
-
-* Lemmatization
 * Vocabulary
 * [POS tagging and frequency distribution](https://www.guru99.com/counting-pos-tags-nltk.html)
 * Collocations (bigrams and trigrams)
+
+## To do list
+
+* Count bigrams and trigrams
+
